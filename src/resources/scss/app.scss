@@ -1,0 +1,47 @@
+@import 'variables';
+.test{
+    font-size: 1rem;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+}
+.form-group-title,.form-group-h4{
+    color: $red-color;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.form-group-h4{
+  font-size: 1rem;
+}
+
+.btn{
+    background-color: rgb(87, 9, 87);
+}
+.button{
+    color: #fff; font-size: 1.4rem;font-weight: 200px; background-color: blueviolet;
+}
+.footer-x{
+    color:$violid-color;
+    height:80px;
+    padding-top:30px;
+    background-color: black;
+    width:1100px;
+    margin-top: 60px;
+    margin-left:150px;
+    color: $white-color;
+    text-align: center;
+
+}
+.footer-x:hover{
+    color:rgb(7, 20, 20);
+    background-color:lightslategrey;
+}
+.user-avatar{
+    width: 35px;
+    height: 35px;
+    margin-right: 4px;
+    border-radius: 50%;
+}
+.text-center{
+    font-size: 30px;
+}
